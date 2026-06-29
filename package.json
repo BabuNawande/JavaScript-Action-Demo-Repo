@@ -1,0 +1,24 @@
+{
+  "name": "javascript-action-demo-repo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BabuNawande/JavaScript-Action-Demo-Repo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BabuNawande/JavaScript-Action-Demo-Repo/issues"
+  },
+  "homepage": "https://github.com/BabuNawande/JavaScript-Action-Demo-Repo#readme",
+  "dependencies": {
+    "@actions/core": "^3.0.1",
+    "@actions/github": "^9.1.1"
+  }
+}
